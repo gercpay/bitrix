@@ -18,6 +18,6 @@
  * EXTENSION INFORMATION
  *
  * 1C-Bitrix      21.400
- * GercPay API https://api.gercpay.com.ua/
+ * GercPay API https://api.gercpay.com.ua/api/
  *
  */

@@ -7,7 +7,7 @@ use Bitrix\Main\SystemException;
  */
 class Gercpay
 {
-    const URL = 'https://api.gercpay.com.ua/';
+    const URL = 'https://api.gercpay.com.ua/api/';
 
     const ORDER_NEW                   = 'New';
     const ORDER_DECLINED              = 'Declined';
